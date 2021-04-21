@@ -35,6 +35,12 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "distributionName": ""
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/api/autor",
+      "publishAllPorts": true
     }
   }
 }
